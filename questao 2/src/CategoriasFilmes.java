@@ -1,0 +1,3 @@
+public enum CategoriasFilmes {
+	COMEDIA,TERROR,INFANTIL,FICCAOCIENTIFICA
+}
